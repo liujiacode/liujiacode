@@ -1,16 +1,31 @@
-### Hi there 👋
+# Welcome to my Github!
+<img src="https://github-readme-stats.vercel.app/api?username=liujiacode&show_icons=true&locale=en&theme=default" />
 
-<!--
-**liujiacode/liujiacode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I am working on
+<div style="display:inline">
+<img src="svgs/2d_materials.svg" />
+</div>
 
-Here are some ideas to get you started:
+## My working environment
+### Operation systems
+<div style="display:inline">
+<img src="svgs/windows.svg" />
+<img src="svgs/ubuntu.svg" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tools and Applications
+<div style="display:inline">
+<img src="svgs/python.svg" />
+<img src="svgs/vasp.svg" />
+<img src="svgs/materials_studio.svg" />
+<img src="svgs/qatk.svg" />
+<img src="svgs/digipale.svg" />
+<img src="svgs/office.svg" />
+</div>
+
+## You can find me at
+<div style="display:inline">
+<img src="svgs/github.svg" />
+<img src="svgs/bilibili.svg" />
+<img src="svgs/zhihu.svg" />
+</div>
