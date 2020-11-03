@@ -13,7 +13,7 @@
 <img src="svgs/ubuntu.svg" />
 </div>
 
-### Tools and Applications
+### Tools and applications
 <div style="display:inline">
 <img src="svgs/python.svg" />
 <img src="svgs/vasp.svg" />
